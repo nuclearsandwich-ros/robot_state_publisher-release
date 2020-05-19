@@ -1,1 +1,1 @@
-{"trim": "", "base": "8e66309", "trimbase": "", "parent": "release/foxy/robot_state_publisher", "previous": "9794e5a"}
+{"base": "c8ac704", "parent": "release/testing/robot_state_publisher", "previous": "ba5b854", "trim": "", "trimbase": ""}
